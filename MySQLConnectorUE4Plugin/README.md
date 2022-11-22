@@ -1,7 +1,7 @@
 # MySQLConnectorUE4Plugin
 
-MySQL Database Connector Plugin for Unreal Engine 4
-update by akuan586（2022.11.21）：you can use it for Unreal Engine 5.1.0  
+MySQL Database Connector Plugin for Unreal Engine 5.1.0
+update by akuan586（2022.11.21）
 please use vs2022.
 some files are changed：
 Plugins\MySQLConnectorUE4Plugin\Source\ThirdParty\MariaDBConnectorLibs\MariaDBConnectorLibs.Build.cs （according to UE5.1.0 document）
